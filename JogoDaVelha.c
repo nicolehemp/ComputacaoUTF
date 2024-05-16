@@ -18,7 +18,6 @@ int jogador=1;
 int chk = 0;
 int empate=0; 
 
-// FUNÇÃO COLISÃO - KAUE
 void foramapa(void){ 
     do{
     scanf("%d %d", &linha, &coluna);    
