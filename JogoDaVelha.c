@@ -1,3 +1,5 @@
+//codigo criado por Nicole Hemp, Otavio Alves e Kaue Albrecht
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

@@ -1,3 +1,5 @@
+//codigo criado por Nicole Hemp e Otavio Alves na disciplina de computacao 2 da UTFPR
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
